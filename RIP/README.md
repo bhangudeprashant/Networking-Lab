@@ -58,3 +58,10 @@ Routes learned via RIP are shown with `R` in the routing table, and the ping fro
 
 ### Ping Result
 ![Ping Result](ping-result.png)
+
+# Networking-Lab
+
+Hands-on Cisco Packet Tracer networking labs.
+
+## Labs
+- [RIP](./RIP) - RIPv2 dynamic routing across 5 routers
