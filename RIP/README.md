@@ -55,3 +55,6 @@ Routes learned via RIP are shown with `R` in the routing table, and the ping fro
 
 ## Packet Tracer File
 [Download RIP_Protocol2.pkt](RIP_Protocol2.pkt)
+
+### Ping Result
+![Ping Result](ping-result.png)
