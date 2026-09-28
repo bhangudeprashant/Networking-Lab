@@ -24,3 +24,6 @@ Router# ping 192.168.2.1
 
 ## Result
 Routes learned via RIP are shown with `R` in the routing table and end-to-end ping is successful.
+
+## Packet Tracer File
+[Download RIP_Protocol2.pkt](RIP_Protocol2.pkt)
