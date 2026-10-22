@@ -4,7 +4,7 @@
 Configure EIGRP (AS 200) dynamic routing between 5 routers in Cisco Packet Tracer so that PC0 and PC1 can communicate.
 
 ## Topology
-![Topology](topology.png)
+![Topology](EIGRP_topology.png)
 
 ## Network Details
 
