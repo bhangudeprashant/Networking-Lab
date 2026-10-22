@@ -48,3 +48,9 @@ PC0> ping 192.168.1.26
 
 ## Result
 EIGRP routes appear with `D` in the routing table, and the ping from PC0 (192.168.1.2) to PC1 (192.168.1.26) is successful.
+
+### Ping Result
+![Ping Result](EIGRP_ping.png)
+
+## Packet Tracer File
+[Download EIGRP_protocol2.pkt](EIGRP_protocol2.pkt)
